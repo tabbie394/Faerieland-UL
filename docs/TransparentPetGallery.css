@@ -76,6 +76,7 @@
     content: url(https://i.postimg.cc/GmkWhJyR/Prooject.png);
     filter: drop-shadow(2px 2px 0px #fff)
 }
+.ul__pet.ul__Prooject img:hover {filter: drop-shadow(2px 2px 0px #fff)
 
 .ul__pet.ul__Yeoman img {
     content: url(https://i.postimg.cc/Xvs0fhym/Usul1.png);
@@ -106,7 +107,6 @@
     content: url(https://i.postimg.cc/hGC0ZTwt/Jelly-Blumaroo.png)
 }
 
-.ul__pet.ul__Chikachu img,
 .ul__pet.ul__Pikacheek img {
     content: url(https://i.postimg.cc/7YTH6d1C/Pikacheek-Battle-pose.png)
 }
@@ -134,7 +134,6 @@
 .ul__pet.ul__Troophy img {
     content: url(https://i.postimg.cc/3xZ9ckXL/Troophy.png)
 }
-
 
 .ul__pet.ul__Enchanta img {
     content: url(https://i.postimg.cc/5yZ8XVw1/Enchanta.png)
